@@ -147,5 +147,5 @@ Varios problemas inciais foram enfrentados na construção do algoritmo, princip
 [3] https://pt.qwe.wiki/wiki/Bresenham%27s_line_algorithm
 [4] http://icgdadepressao.blogspot.com/2016/03/rasterizacao-triangulos-com-o-algoritmo.html
 [5] https://bitunico.wordpress.com/2012/12/16/rasterizacao-em-cc-algoritmo-de-bresenham
-[6] Notas de Aula do Professor Christian Azambuja Pagot.
+[6] Material Christian Pagot.
 [7] http://letslearnbits.blogspot.com/2014/10/icgt1-algoritmo-de-bresenham.html
