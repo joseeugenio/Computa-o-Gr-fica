@@ -2,7 +2,7 @@
 
 # Atividade 1 - Rasterização de Pontos e Linhas utilizando o opengl
 
-#### Alunos: José Eugenio - 11506862
+#### José Eugenio - 11506862
 
 #### Relatório: 
 * Esta atividade teve como objetivo implementar o algoritmo para rasterização de pontos e linhas. O objetivo principal da atividade é desenhar triangulos utilizando rasterizador de linhas. Para tal, pode-se conseguir solucionar o probelma com preenchimento de suas arestas. Todo o proceso foi feito utilizando as primitivas rasterizadas com oo acesso direto a memória de vídeo.
