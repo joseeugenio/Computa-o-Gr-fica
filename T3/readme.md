@@ -206,4 +206,4 @@ Com essas modificações obtemos o seguinte resultado:
 [4] http://www.rhydianedwards.co.uk/2017/08/05/setting-up-sdl-glew-and-glm-in-codeblocks-on-linux/
 [5] https://www.youtube.com/watch?v=SqOLkfXDzlY
 [6] http://glew.sourceforge.net/
-[7] Slides Do Professor Disponibilizados no Sigaa
+[7] Material Christian Pagot
